@@ -1,6 +1,6 @@
 # Nano-Headers
 
-[Pico](http://pico.dev7studios.com/index.html) Plugin for handling HTTP headers.
+[Pico](http://pico.dev7studios.com/index.html) Plugin for handling security headers.
 
 ### Installation
 
